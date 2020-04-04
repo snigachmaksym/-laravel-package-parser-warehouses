@@ -1,5 +1,5 @@
 {
-    "name": "Parser/Postal",
+    "name": "parser-postal/warehouses",
     "description": "Parse Delivery and InTime branches",
     "authors": [
         {
