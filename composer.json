@@ -1,0 +1,16 @@
+{
+    "name": "Parser/Postal",
+    "description": "Parse Delivery and InTime branches",
+    "authors": [
+        {
+            "name": "Snigach Maksym",
+            "email": "smizpua@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Parser\\Postal\\": "src/"
+        }
+    }
+}
